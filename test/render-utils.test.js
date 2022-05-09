@@ -25,3 +25,4 @@ test('renderListItem renders a div with animal details', (expect) => {
     // Make assertions about what is expected versus the actual result
     expect.equal(actual.outerHTML, expected);
 });
+
