@@ -1,5 +1,5 @@
-import { findById } from "../utils.js"; 
-import { animals } from "../data.js";
+import { findById } from '../utils.js'; 
+import { animals } from '../data.js';
 console.log('Hello from animal-page');
 
 const params = new URLSearchParams(window.location.search);
